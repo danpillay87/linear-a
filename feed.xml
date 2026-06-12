@@ -5,8 +5,8 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alt History Daily</title>
-    <link>https://boldspace.github.io/claude-skills/</link>
-    <atom:link href="https://boldspace.github.io/claude-skills/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://danpillay87.github.io/alt-history-daily/</link>
+    <atom:link href="https://danpillay87.github.io/alt-history-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-GB</language>
     <description>Fifteen-minute alt-history short fiction. One episode at a time â€” a single household, a single document, a single journey, set in a world where one historical contingency went the other way. New episodes appear when they appear.</description>
     <itunes:author>Alt History Daily</itunes:author>
@@ -15,13 +15,13 @@
       <itunes:name>Alt History Daily</itunes:name>
       <itunes:email>dan.pillay@boldspace.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://boldspace.github.io/claude-skills/cover.jpg"/>
+    <itunes:image href="https://danpillay87.github.io/alt-history-daily/cover.jpg"/>
     <itunes:category text="Fiction">
       <itunes:category text="History"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 12 Jun 2026 07:55:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 08:02:31 GMT</lastBuildDate>
 
     <item>
       <title>The Outrigger at Limuw</title>
@@ -30,7 +30,7 @@
       <itunes:author>Alt History Daily</itunes:author>
       <pubDate>Tue, 09 Jun 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="false">altdaily-2026-06-09-the-outrigger-at-limuw</guid>
-      <enclosure url="https://boldspace.github.io/claude-skills/2026-06-09%20-%20The%20Outrigger%20at%20Limuw.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://danpillay87.github.io/alt-history-daily/2026-06-09%20-%20The%20Outrigger%20at%20Limuw.mp3" type="audio/mpeg" length="0"/>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -42,7 +42,7 @@
       <itunes:author>Alt History Daily</itunes:author>
       <pubDate>Tue, 09 Jun 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="false">altdaily-2026-06-09-the-bayt-al-hikma-auction</guid>
-      <enclosure url="https://boldspace.github.io/claude-skills/2026-06-09%20-%20The%20Bayt%20al-Hikma%20Auction.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://danpillay87.github.io/alt-history-daily/2026-06-09%20-%20The%20Bayt%20al-Hikma%20Auction.mp3" type="audio/mpeg" length="0"/>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -54,7 +54,7 @@
       <itunes:author>Alt History Daily</itunes:author>
       <pubDate>Tue, 02 Jun 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="false">altdaily-2026-06-02-the-midwife-of-kaskaskia</guid>
-      <enclosure url="https://boldspace.github.io/claude-skills/2026-06-02%20-%20The%20Midwife%20of%20Kaskaskia.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://danpillay87.github.io/alt-history-daily/2026-06-02%20-%20The%20Midwife%20of%20Kaskaskia.mp3" type="audio/mpeg" length="0"/>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
