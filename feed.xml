@@ -4,33 +4,33 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alt History Daily</title>
-    <link>https://danpillay87.github.io/alt-history-daily/</link>
-    <atom:link href="https://danpillay87.github.io/alt-history-daily/feed.xml" rel="self" type="application/rss+xml"/>
+    <title>Linear A</title>
+    <link>https://danpillay87.github.io/linear-a/</link>
+    <atom:link href="https://danpillay87.github.io/linear-a/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-GB</language>
-    <description>Fifteen-minute alt-history short fiction. One episode at a time â€” a single household, a single document, a single journey, set in a world where one historical contingency went the other way. New episodes appear when they appear.</description>
-    <itunes:author>Alt History Daily</itunes:author>
-    <itunes:summary>Fifteen-minute alt-history short fiction. One episode at a time â€” a single household, a single document, a single journey, set in a world where one historical contingency went the other way. New episodes appear when they appear.</itunes:summary>
+    <description>History wrote two scripts. Only one was ever deciphered. Fifteen-minute alt-history short fiction â€” a single household, a single document, a single journey, set in a world where one historical contingency went the other way. New episodes appear when they appear.</description>
+    <itunes:author>Linear A</itunes:author>
+    <itunes:summary>History wrote two scripts. Only one was ever deciphered. Fifteen-minute alt-history short fiction â€” a single household, a single document, a single journey, set in a world where one historical contingency went the other way. New episodes appear when they appear.</itunes:summary>
     <itunes:owner>
-      <itunes:name>Alt History Daily</itunes:name>
+      <itunes:name>Linear A</itunes:name>
       <itunes:email>danpillay87@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://danpillay87.github.io/alt-history-daily/cover.jpg"/>
+    <itunes:image href="https://danpillay87.github.io/linear-a/cover.jpg"/>
     <itunes:category text="Fiction">
       <itunes:category text="History"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 12 Jun 2026 08:51:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 09:08:59 GMT</lastBuildDate>
 
     <item>
       <title>The Outrigger at Limuw</title>
       <description>Polynesian Pacific / Channel Islands, 1300 CE (POD c. 1100 CE). pavane-elegiac at single-canoe scale.</description>
       <itunes:summary>Polynesian Pacific / Channel Islands, 1300 CE (POD c. 1100 CE). pavane-elegiac at single-canoe scale.</itunes:summary>
-      <itunes:author>Alt History Daily</itunes:author>
+      <itunes:author>Linear A</itunes:author>
       <pubDate>Tue, 09 Jun 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="false">altdaily-2026-06-09-the-outrigger-at-limuw</guid>
-      <enclosure url="https://danpillay87.github.io/alt-history-daily/2026-06-09%20-%20The%20Outrigger%20at%20Limuw.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://danpillay87.github.io/linear-a/2026-06-09%20-%20The%20Outrigger%20at%20Limuw.mp3" type="audio/mpeg" length="0"/>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -39,10 +39,10 @@
       <title>The Bayt al-Hikma Auction</title>
       <description>848 CE. Caliph al-Mutawakkil dies of a fever before he reverses his predecessor al-Wathiq's policy. The Mu'tazilite *mihna* winds down quietly rather than being replaced by the Hanbali traditionalist current. The Caliph's young son is cautious and dependent on the Mu'tazilite-trained chief judges...</description>
       <itunes:summary>848 CE. Caliph al-Mutawakkil dies of a fever before he reverses his predecessor al-Wathiq's policy. The Mu'tazilite *mihna* winds down quietly rather than being replaced by the Hanbali traditionalist current. The Caliph's young son is cautious and dependent on the Mu'tazilite-trained chief judges...</itunes:summary>
-      <itunes:author>Alt History Daily</itunes:author>
+      <itunes:author>Linear A</itunes:author>
       <pubDate>Tue, 09 Jun 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="false">altdaily-2026-06-09-the-bayt-al-hikma-auction</guid>
-      <enclosure url="https://danpillay87.github.io/alt-history-daily/2026-06-09%20-%20The%20Bayt%20al-Hikma%20Auction.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://danpillay87.github.io/linear-a/2026-06-09%20-%20The%20Bayt%20al-Hikma%20Auction.mp3" type="audio/mpeg" length="0"/>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -51,10 +51,10 @@
       <title>The Midwife of Kaskaskia</title>
       <description>1175 CE. The Moorehead-phase reorganisation of the Mississippian centre now called Cahokia succeeds where in our timeline it failed. After the great flooding cycle of c. 1150, a new political elite redistributes labour away from intensive ridged-field maize toward a mixed riverine economy — the *...</description>
       <itunes:summary>1175 CE. The Moorehead-phase reorganisation of the Mississippian centre now called Cahokia succeeds where in our timeline it failed. After the great flooding cycle of c. 1150, a new political elite redistributes labour away from intensive ridged-field maize toward a mixed riverine economy — the *...</itunes:summary>
-      <itunes:author>Alt History Daily</itunes:author>
+      <itunes:author>Linear A</itunes:author>
       <pubDate>Tue, 02 Jun 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="false">altdaily-2026-06-02-the-midwife-of-kaskaskia</guid>
-      <enclosure url="https://danpillay87.github.io/alt-history-daily/2026-06-02%20-%20The%20Midwife%20of%20Kaskaskia.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://danpillay87.github.io/linear-a/2026-06-02%20-%20The%20Midwife%20of%20Kaskaskia.mp3" type="audio/mpeg" length="0"/>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
