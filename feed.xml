@@ -8,11 +8,11 @@
     <link>https://danpillay87.github.io/linear-a/</link>
     <atom:link href="https://danpillay87.github.io/linear-a/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-GB</language>
-    <copyright>Â© 2026 Linear A</copyright>
+    <copyright>(c) 2026 Linear A</copyright>
     <itunes:subtitle>History wrote two scripts. Only one was ever deciphered.</itunes:subtitle>
-    <description>History wrote two scripts. Only one was ever deciphered. Fifteen-minute alt-history short fiction â€” a single household, a single document, a single journey, set in a world where one historical contingency went the other way. New episodes appear when they appear.</description>
+    <description>History wrote two scripts. Only one was ever deciphered. Fifteen-minute alt-history short fiction - a single household, a single document, a single journey, set in a world where one historical contingency went the other way. New episodes appear when they appear.</description>
     <itunes:author>Linear A</itunes:author>
-    <itunes:summary>History wrote two scripts. Only one was ever deciphered. Fifteen-minute alt-history short fiction â€” a single household, a single document, a single journey, set in a world where one historical contingency went the other way. New episodes appear when they appear.</itunes:summary>
+    <itunes:summary>History wrote two scripts. Only one was ever deciphered. Fifteen-minute alt-history short fiction - a single household, a single document, a single journey, set in a world where one historical contingency went the other way. New episodes appear when they appear.</itunes:summary>
     <itunes:owner>
       <itunes:name>Linear A</itunes:name>
       <itunes:email>danpillay87@gmail.com</itunes:email>
@@ -23,7 +23,52 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 13 Jun 2026 20:34:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 20:55:25 GMT</lastBuildDate>
+
+    <item>
+      <title>The Walrus Road</title>
+      <description>c. 1370. The Norse of Greenland, instead of clinging to a failing European cattle-and-grain way of life as the climate cooled, begin — through one or two intermarriages and a hard winter that forces the issue — to ADOPT the technology of the Thule (the ancestors of the Inuit) already living to th...</description>
+      <itunes:summary>c. 1370. The Norse of Greenland, instead of clinging to a failing European cattle-and-grain way of life as the climate cooled, begin — through one or two intermarriages and a hard winter that forces the issue — to ADOPT the technology of the Thule (the ancestors of the Inuit) already living to th...</itunes:summary>
+      <itunes:author>Linear A</itunes:author>
+      <pubDate>Tue, 16 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">altdaily-2026-06-16-the-walrus-road</guid>
+      <enclosure url="https://danpillay87.github.io/linear-a/2026-06-16%20-%20The%20Walrus%20Road.mp3" type="audio/mpeg" length="0"/>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>The Emperor's Album</title>
+      <description>1605. Akbar's syncretic court faith, the Din-i-Ilahi — his attempt to fuse Islam, Hinduism, Christianity and Zoroastrianism into one imperial tolerance — does NOT die with him. A reconciling grandson holds the line where, in our timeline, orthodoxy reasserted and Aurangzeb's reign later smashed t...</description>
+      <itunes:summary>1605. Akbar's syncretic court faith, the Din-i-Ilahi — his attempt to fuse Islam, Hinduism, Christianity and Zoroastrianism into one imperial tolerance — does NOT die with him. A reconciling grandson holds the line where, in our timeline, orthodoxy reasserted and Aurangzeb's reign later smashed t...</itunes:summary>
+      <itunes:author>Linear A</itunes:author>
+      <pubDate>Mon, 15 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">altdaily-2026-06-15-the-emperors-album</guid>
+      <enclosure url="https://danpillay87.github.io/linear-a/2026-06-15%20-%20The%20Emperor's%20Album.mp3" type="audio/mpeg" length="0"/>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>The Lacquer House</title>
+      <description>1433. The Ming court does NOT burn the treasure fleets and turn inward after Zheng He's last voyage. The maritime faction wins the argument; the great ships keep sailing; the sea-trade ban (haijin) is never enforced. By the 1480s the southern ports — Quanzhou above all — are awash in private sea-...</description>
+      <itunes:summary>1433. The Ming court does NOT burn the treasure fleets and turn inward after Zheng He's last voyage. The maritime faction wins the argument; the great ships keep sailing; the sea-trade ban (haijin) is never enforced. By the 1480s the southern ports — Quanzhou above all — are awash in private sea-...</itunes:summary>
+      <itunes:author>Linear A</itunes:author>
+      <pubDate>Sun, 14 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">altdaily-2026-06-14-the-lacquer-house</guid>
+      <enclosure url="https://danpillay87.github.io/linear-a/2026-06-14%20-%20The%20Lacquer%20House.mp3" type="audio/mpeg" length="0"/>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 
     <item>
       <title>The Rider at Takedda</title>
@@ -41,21 +86,6 @@
     </item>
 
     <item>
-      <title>The Sverdlovsk Log</title>
-      <description>October 1970. The Politburo committee reviewing Viktor Glushkov's OGAS — the All-State Automated System, a proposed nationwide computer network to run the planned economy — approves it instead of shelving it. In our timeline the project died that month, defeated not on technical grounds but by th...</description>
-      <itunes:summary>October 1970. The Politburo committee reviewing Viktor Glushkov's OGAS — the All-State Automated System, a proposed nationwide computer network to run the planned economy — approves it instead of shelving it. In our timeline the project died that month, defeated not on technical grounds but by th...</itunes:summary>
-      <itunes:author>Linear A</itunes:author>
-      <pubDate>Fri, 12 Jun 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="false">altdaily-2026-06-12-the-sverdlovsk-log</guid>
-      <enclosure url="https://danpillay87.github.io/linear-a/2026-06-12%20-%20The%20Sverdlovsk%20Log%20r3.mp3" type="audio/mpeg" length="0"/>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>5</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-
-    <item>
       <title>The Berdichev Copy</title>
       <description>Soviet Ukraine / the Thaw, 1963 CE (POD 1961 CE). pavane-elegiac at reading-room scale, Grossman plainness.</description>
       <itunes:summary>Soviet Ukraine / the Thaw, 1963 CE (POD 1961 CE). pavane-elegiac at reading-room scale, Grossman plainness.</itunes:summary>
@@ -65,6 +95,21 @@
       <enclosure url="https://danpillay87.github.io/linear-a/2026-06-12%20-%20The%20Berdichev%20Copy%20r2.mp3" type="audio/mpeg" length="0"/>
       <itunes:season>1</itunes:season>
       <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>The Sverdlovsk Log</title>
+      <description>October 1970. The Politburo committee reviewing Viktor Glushkov's OGAS — the All-State Automated System, a proposed nationwide computer network to run the planned economy — approves it instead of shelving it. In our timeline the project died that month, defeated not on technical grounds but by th...</description>
+      <itunes:summary>October 1970. The Politburo committee reviewing Viktor Glushkov's OGAS — the All-State Automated System, a proposed nationwide computer network to run the planned economy — approves it instead of shelving it. In our timeline the project died that month, defeated not on technical grounds but by th...</itunes:summary>
+      <itunes:author>Linear A</itunes:author>
+      <pubDate>Fri, 12 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">altdaily-2026-06-12-the-sverdlovsk-log</guid>
+      <enclosure url="https://danpillay87.github.io/linear-a/2026-06-12%20-%20The%20Sverdlovsk%20Log%20r3.mp3" type="audio/mpeg" length="0"/>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
