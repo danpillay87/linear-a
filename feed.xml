@@ -23,7 +23,22 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 12 Jun 2026 20:55:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 20:34:04 GMT</lastBuildDate>
+
+    <item>
+      <title>The Rider at Takedda</title>
+      <description>c. 1585. The Songhai Empire, awash in trans-Saharan gold and in regular contact with Saadi Morocco and Ottoman Egypt, does the thing it conspicuously did not do in our timeline: it buys arquebuses and trains a corps to use them. So when the Moroccan gun-army crosses the desert in 1591, the Battle...</description>
+      <itunes:summary>c. 1585. The Songhai Empire, awash in trans-Saharan gold and in regular contact with Saadi Morocco and Ottoman Egypt, does the thing it conspicuously did not do in our timeline: it buys arquebuses and trains a corps to use them. So when the Moroccan gun-army crosses the desert in 1591, the Battle...</itunes:summary>
+      <itunes:author>Linear A</itunes:author>
+      <pubDate>Sat, 13 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">altdaily-2026-06-13-the-rider-at-takedda</guid>
+      <enclosure url="https://danpillay87.github.io/linear-a/2026-06-13%20-%20The%20Rider%20at%20Takedda.mp3" type="audio/mpeg" length="0"/>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 
     <item>
       <title>The Sverdlovsk Log</title>
@@ -56,21 +71,6 @@
     </item>
 
     <item>
-      <title>The Outrigger at Limuw</title>
-      <description>Polynesian Pacific / Channel Islands, 1300 CE (POD c. 1100 CE). pavane-elegiac at single-canoe scale.</description>
-      <itunes:summary>Polynesian Pacific / Channel Islands, 1300 CE (POD c. 1100 CE). pavane-elegiac at single-canoe scale.</itunes:summary>
-      <itunes:author>Linear A</itunes:author>
-      <pubDate>Tue, 09 Jun 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="false">altdaily-2026-06-09-the-outrigger-at-limuw</guid>
-      <enclosure url="https://danpillay87.github.io/linear-a/2026-06-09%20-%20The%20Outrigger%20at%20Limuw%20r2.mp3" type="audio/mpeg" length="0"/>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>3</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-
-    <item>
       <title>The Bayt al-Hikma Auction</title>
       <description>848 CE. Caliph al-Mutawakkil dies of a fever before he reverses his predecessor al-Wathiq's policy. The Mu'tazilite *mihna* winds down quietly rather than being replaced by the Hanbali traditionalist current. The Caliph's young son is cautious and dependent on the Mu'tazilite-trained chief judges...</description>
       <itunes:summary>848 CE. Caliph al-Mutawakkil dies of a fever before he reverses his predecessor al-Wathiq's policy. The Mu'tazilite *mihna* winds down quietly rather than being replaced by the Hanbali traditionalist current. The Caliph's young son is cautious and dependent on the Mu'tazilite-trained chief judges...</itunes:summary>
@@ -80,6 +80,21 @@
       <enclosure url="https://danpillay87.github.io/linear-a/2026-06-09%20-%20The%20Bayt%20al-Hikma%20Auction%20r2.mp3" type="audio/mpeg" length="0"/>
       <itunes:season>1</itunes:season>
       <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>The Outrigger at Limuw</title>
+      <description>Polynesian Pacific / Channel Islands, 1300 CE (POD c. 1100 CE). pavane-elegiac at single-canoe scale.</description>
+      <itunes:summary>Polynesian Pacific / Channel Islands, 1300 CE (POD c. 1100 CE). pavane-elegiac at single-canoe scale.</itunes:summary>
+      <itunes:author>Linear A</itunes:author>
+      <pubDate>Tue, 09 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">altdaily-2026-06-09-the-outrigger-at-limuw</guid>
+      <enclosure url="https://danpillay87.github.io/linear-a/2026-06-09%20-%20The%20Outrigger%20at%20Limuw%20r2.mp3" type="audio/mpeg" length="0"/>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
