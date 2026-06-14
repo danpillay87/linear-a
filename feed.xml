@@ -23,7 +23,7 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 13 Jun 2026 21:20:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 03:48:47 GMT</lastBuildDate>
 
     <item>
       <title>The Runner and the Bridge</title>
@@ -34,7 +34,7 @@
       <guid isPermaLink="false">altdaily-2026-06-19-the-runner-and-the-bridge</guid>
       <enclosure url="https://danpillay87.github.io/linear-a/2026-06-19%20-%20The%20Runner%20and%20the%20Bridge.mp3" type="audio/mpeg" length="0"/>
       <itunes:season>1</itunes:season>
-      <itunes:episode>12</itunes:episode>
+      <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -49,7 +49,7 @@
       <guid isPermaLink="false">altdaily-2026-06-18-the-gilders-afternoon</guid>
       <enclosure url="https://danpillay87.github.io/linear-a/2026-06-18%20-%20The%20Gilder's%20Afternoon.mp3" type="audio/mpeg" length="0"/>
       <itunes:season>1</itunes:season>
-      <itunes:episode>11</itunes:episode>
+      <itunes:episode>14</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -64,7 +64,7 @@
       <guid isPermaLink="false">altdaily-2026-06-17-the-bell-of-sotome</guid>
       <enclosure url="https://danpillay87.github.io/linear-a/2026-06-17%20-%20The%20Bell%20of%20Sotome.mp3" type="audio/mpeg" length="0"/>
       <itunes:season>1</itunes:season>
-      <itunes:episode>10</itunes:episode>
+      <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -79,7 +79,7 @@
       <guid isPermaLink="false">altdaily-2026-06-16-the-walrus-road</guid>
       <enclosure url="https://danpillay87.github.io/linear-a/2026-06-16%20-%20The%20Walrus%20Road.mp3" type="audio/mpeg" length="0"/>
       <itunes:season>1</itunes:season>
-      <itunes:episode>9</itunes:episode>
+      <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -94,7 +94,52 @@
       <guid isPermaLink="false">altdaily-2026-06-15-the-emperors-album</guid>
       <enclosure url="https://danpillay87.github.io/linear-a/2026-06-15%20-%20The%20Emperor's%20Album.mp3" type="audio/mpeg" length="0"/>
       <itunes:season>1</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>The Relief at Famagusta</title>
+      <description>Cyprus / Famagusta, 1571 CE (POD 1571 CE). siege-stone close-third, heat and gun-bronze.</description>
+      <itunes:summary>Cyprus / Famagusta, 1571 CE (POD 1571 CE). siege-stone close-third, heat and gun-bronze.</itunes:summary>
+      <itunes:author>Linear A</itunes:author>
+      <pubDate>Sun, 14 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">altdaily-2026-06-14-the-relief-at-famagusta</guid>
+      <enclosure url="https://danpillay87.github.io/linear-a/2026-06-14%20-%20The%20Relief%20at%20Famagusta.mp3" type="audio/mpeg" length="0"/>
+      <itunes:season>1</itunes:season>
       <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>The Year of the Rabbit</title>
+      <description>Mexica / Tenochtitlan, 1454 CE (POD 1454 CE). dry lake-city dawn close-third.</description>
+      <itunes:summary>Mexica / Tenochtitlan, 1454 CE (POD 1454 CE). dry lake-city dawn close-third.</itunes:summary>
+      <itunes:author>Linear A</itunes:author>
+      <pubDate>Sun, 14 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">altdaily-2026-06-14-the-year-of-the-rabbit</guid>
+      <enclosure url="https://danpillay87.github.io/linear-a/2026-06-14%20-%20The%20Year%20of%20the%20Rabbit.mp3" type="audio/mpeg" length="0"/>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>The Seamstress of Archahaie</title>
+      <description>May 1803, Archahaie. As the Haitian Revolution turns to its final war of independence, the leadership tears the white from the French tricolore and binds the blue and the red together for the flag of what will be the first Black republic. The rivet is not the flag — that happened — but what comes...</description>
+      <itunes:summary>May 1803, Archahaie. As the Haitian Revolution turns to its final war of independence, the leadership tears the white from the French tricolore and binds the blue and the red together for the flag of what will be the first Black republic. The rivet is not the flag — that happened — but what comes...</itunes:summary>
+      <itunes:author>Linear A</itunes:author>
+      <pubDate>Sun, 14 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">altdaily-2026-06-14-the-seamstress-of-archahaie</guid>
+      <enclosure url="https://danpillay87.github.io/linear-a/2026-06-14%20-%20The%20Seamstress%20of%20Archahaie.mp3" type="audio/mpeg" length="0"/>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
